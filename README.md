@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/onid057/onid057/assets/141606477/c6902f2b-da17-4ffc-bf1d-4e3062ce1fb5" width=600/>
+  <img src="https://github.com/onid057/onid057/assets/141606477/d20fe6f5-cf91-46ec-b2a4-ae2f9df238ba" width=600/>
 </div>
 
 <h3 align="center">📚 Tech Stack 📚</h3>
